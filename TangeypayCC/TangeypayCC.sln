@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TangeypayCC.Server", "TangeypayCC.Server\TangeypayCC.Server.csproj", "{7E3C8F0D-11C7-4F46-A344-7B260D40C43B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tangeypaycc.client", "tangeypaycc.client\tangeypaycc.client.esproj", "{114A966E-6AE3-4523-98DC-19D62B96D329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3C8F0D-11C7-4F46-A344-7B260D40C43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3C8F0D-11C7-4F46-A344-7B260D40C43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3C8F0D-11C7-4F46-A344-7B260D40C43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3C8F0D-11C7-4F46-A344-7B260D40C43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114A966E-6AE3-4523-98DC-19D62B96D329}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E520579-1472-4723-B2C6-C0C0F0FD0197}
+	EndGlobalSection
+EndGlobal
